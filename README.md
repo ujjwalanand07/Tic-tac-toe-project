@@ -1,6 +1,4 @@
 TIC TAC TOE
-BASED ON MINIMAX ALGORITHM
-SUMMARY
 This is a simple, command-line Tic-Tac-Toe game built in Python where the opponent is an Arti
 ficial Intelligence that will never lose. This project is a perfect introduction to how AI "thinks"
 using an algorithm called Minimax.
@@ -19,6 +17,7 @@ The game will start, and you will be prompted to make your first move.
  2. You will be prompted to "enter your move (0-8)".
  3. The board cells are numbered from 0 (top-left) to 8 (bottom-right), like this:
  <img width="178" height="136" alt="image" src="https://github.com/user-attachments/assets/c0443479-74a8-4e8a-9841-d94d6dc3fc6f" />
+ 
  4. Enter the number corresponding to the empty cell where you want to place your 'X'.
  5. The AI will then make its move as 'O'.
  6. The goal is simple: try to win, or at least force a draw! (The AI will make it very tough!)

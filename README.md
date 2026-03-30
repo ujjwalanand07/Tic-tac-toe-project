@@ -13,15 +13,15 @@ You only need python installed on your device
 3. Run the Game !: Once inside the project folder, execute the main game file using this command:
  python -m ai_tictactoe.main
 The game will start, and you will be prompted to make your first move.
-2.  How to Play
- 1. The game board is displayed in your terminal. It's a standard 3 x 3 grid.
- 2. You will be prompted to "enter your move (0-8)".
- 3. The board cells are numbered from 0 (top-left) to 8 (bottom-right), like this:
+  HOW TO PLAY
+ . The game board is displayed in your terminal. It's a standard 3 x 3 grid.
+ . You will be prompted to "enter your move (0-8)".
+ . The board cells are numbered from 0 (top-left) to 8 (bottom-right), like this:
  <img width="178" height="136" alt="image" src="https://github.com/user-attachments/assets/c0443479-74a8-4e8a-9841-d94d6dc3fc6f" />
  
- 4. Enter the number corresponding to the empty cell where you want to place your 'X'.
- 5. The AI will then make its move as 'O'.
- 6. The goal is simple: try to win, or at least force a draw! (The AI will make it very tough!)
+ . Enter the number corresponding to the empty cell where you want to place your 'X'.
+ . The AI will then make its move as 'O'.
+ . The goal is simple: try to win, or at least force a draw! (The AI will make it very tough!)
     
  HOW THE AI WORKS
 

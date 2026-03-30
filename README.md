@@ -13,6 +13,8 @@ You only need python installed on your device
 3. Run the Game !: Once inside the project folder, execute the main game file using this command:
  python -m ai_tictactoe.main
 The game will start, and you will be prompted to make your first move.
+
+
  HOW TO PLAY-
  . The game board is displayed in your terminal. It's a standard 3 x 3 grid.
  . You will be prompted to "enter your move (0-8)".

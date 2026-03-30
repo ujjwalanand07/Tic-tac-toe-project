@@ -21,9 +21,9 @@ The game will start, and you will be prompted to make your first move.
   The board cells are numbered from 0 (top-left) to 8 (bottom-right), like this:
  <img width="178" height="136" alt="image" src="https://github.com/user-attachments/assets/c0443479-74a8-4e8a-9841-d94d6dc3fc6f" />
  
- . Enter the number corresponding to the empty cell where you want to place your 'X'.
- . The AI will then make its move as 'O'.
- . The goal is simple: try to win, or at least force a draw! (The AI will make it very tough!)
+  Enter the number corresponding to the empty cell where you want to place your 'X'.
+  The AI will then make its move as 'O'.
+  The goal is simple: try to win, or at least force a draw! (The AI will make it very tough!)
     
  HOW THE AI WORKS
 

@@ -16,9 +16,9 @@ The game will start, and you will be prompted to make your first move.
 
 
  HOW TO PLAY-
- . The game board is displayed in your terminal. It's a standard 3 x 3 grid.
- . You will be prompted to "enter your move (0-8)".
- . The board cells are numbered from 0 (top-left) to 8 (bottom-right), like this:
+  The game board is displayed in your terminal. It's a standard 3 x 3 grid.
+  You will be prompted to "enter your move (0-8)".
+  The board cells are numbered from 0 (top-left) to 8 (bottom-right), like this:
  <img width="178" height="136" alt="image" src="https://github.com/user-attachments/assets/c0443479-74a8-4e8a-9841-d94d6dc3fc6f" />
  
  . Enter the number corresponding to the empty cell where you want to place your 'X'.

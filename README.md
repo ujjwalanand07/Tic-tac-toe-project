@@ -22,7 +22,7 @@ The game will start, and you will be prompted to make your first move.
  4. Enter the number corresponding to the empty cell where you want to place your 'X'.
  5. The AI will then make its move as 'O'.
  6. The goal is simple: try to win, or at least force a draw! (The AI will make it very tough!)
-3.  HOW THE AI WORKS
+ HOW THE AI WORKS
 
  This project isn't just a game; it's a demonstration of a powerful AI concept called the Minimax Algorithm.
 The Problem: The AI's job is to figure out the absolute best move to make.
